@@ -62,7 +62,7 @@ Enter your choice: 0
 	int a,k,c;
 	do{
 	printf("\n[---------------]\n\n\n");
-	printf("oress 1. ADD\n");
+	printf("press 1. ADD\n");
 	printf("press 2. SUB\n");
 	printf("press 3. DIV\n");
 	printf("press 4. MULTI\n");

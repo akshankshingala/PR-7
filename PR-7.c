@@ -62,12 +62,12 @@ Enter your choice: 0
 	int a,k,c;
 	do{
 	printf("\n[---------------]\n\n\n");
-	printf("1. ADD\n");
-	printf("2. SUB\n");
-	printf("3. DIV\n");
-	printf("4. MULTI\n");
-	printf("5. MODULO\n");
-	printf("6. EXIT\n");
+	printf("oress 1. ADD\n");
+	printf("press 2. SUB\n");
+	printf("press 3. DIV\n");
+	printf("press 4. MULTI\n");
+	printf("press 5. MODULO\n");
+	printf("press 6. EXIT\n");
 	printf("enter number : \n");
 	scanf("%d",&c);
 
